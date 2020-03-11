@@ -56,12 +56,16 @@ users = {
 
 # 1. Get Jonathan's Twitter handle (i.e. the string `"jonnyt"`)
 
-p users["Jonathan"][:twitter] #couldn't get this one
+p users["Jonathan"][:twitter]
 
 # 2. Get Erik's hometown
-p
+
+p users["Erik"][:home_town]
 
 # 3. Get the array of Erik's lottery numbers
+
+p users["Erik"][:lottery_numbers]
+
 # 4. Get the species of Avril's pet Monty
 # 5. Get the smallest of Erik's lottery numbers
 # 6. Return an array of Avril's lottery numbers that are even
