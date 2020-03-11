@@ -36,6 +36,9 @@ end
 p stop_counter
 
 #8. Show as many ways as you can to return "Falkirk High" from the array?
+
+p stops[2]
+
 #9. Reverse the positions of the stops in the array
 #10 Print out all the stops using a for loop
 
