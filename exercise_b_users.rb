@@ -92,3 +92,6 @@ users["Erik"][:pets] = "Fluffy"
 p users["Erik"][:pets]
 
 # 10. Add another person to the users hash
+
+users.insert["Bob"]
+p users
